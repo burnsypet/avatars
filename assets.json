@@ -1,0 +1,14 @@
+{
+    "heads":
+    [
+        "./heads/1.png",
+        "./heads/2.png",
+        "./heads/3.png"
+    ],
+    "eyes":
+    [
+        "./eyes/1.png",
+        "./eyes/2.png",
+        "./eyes/3.png"
+    ]
+}
